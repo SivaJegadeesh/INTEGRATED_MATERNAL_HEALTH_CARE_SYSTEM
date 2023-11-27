@@ -1,4 +1,4 @@
-# Your Project Name
+# INTEGRATED MATERNAL AND CHILD CARE SYSTEM 
 
 ## Description
 
@@ -58,13 +58,5 @@ Once the steps above are completed, users can access the home page and interact 
 ## License
 
 This project is licensed under the [MIT License](LICENSE.md).
-
-## Acknowledgements
-
-- Mention any contributors or resources that inspired your project.
-
-## Contact
-
-For questions or feedback, please contact [Your Name] at [your@email.com].
 
 ---
